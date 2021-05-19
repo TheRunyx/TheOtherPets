@@ -1,0 +1,9 @@
+{
+    "pets": [
+        {
+            "author": "Testing",
+            "package": "Developer Pets",
+            "resource": "custompet_eisbison.png"
+        }
+    ]
+}
