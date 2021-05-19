@@ -4,6 +4,7 @@
             "name": "Eisbison",
             "author": "Testing",
             "package": "Developer Pets",
+            "condition": "None",
             "resource": "custompet_eisbison",
             "reshash": "X"
         }
