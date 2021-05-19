@@ -5,7 +5,7 @@
             "author": "Testing",
             "package": "Developer Pets",
             "condition": "None",
-            "resource": "custompet_eisbison",
+            "resource": "eisbison.pet",
             "reshash": "b4100267da8c0d141429247baa80e43d"
         }
     ]
