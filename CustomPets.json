@@ -1,12 +1,12 @@
 {
     "pets": [
         {
-            "name": "Eisbison",
+            "name": "RedGlitch",
             "author": "Testing",
             "package": "Developer Pets",
             "condition": "None",
-            "resource": "eisbison.pet",
-            "reshash": "b4100267da8c0d141429247baa80e43d"
+            "resource": "redglitch.pet",
+            "reshash": "197a109b33b4d4ba0214d188301de440"
         }
     ]
 }
